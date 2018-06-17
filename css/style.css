@@ -1,0 +1,42 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: url(../images/jaguar-xe.jpg)no-repeat center top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    position: fixed;
+    bottom: 235px;
+    left: 100px;
+    width: 600px;
+    padding: 30px;
+}
+
+section h1 {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.button {
+    background-color: #DB3030;
+    padding: 10px 50px;
+    width: fit-content;
+}
+
+div a {
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        position: sticky;
+        width: auto;}
+    }
