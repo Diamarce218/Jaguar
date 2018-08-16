@@ -10,7 +10,7 @@ For the implementation of this project the following tecnologies were used:
 ## Installing
 Clone this project in order to be able to open and work in this project.
 ```
-https://github.com/Diamarce218/Jaguar.git
+git clone https://github.com/Diamarce218/Jaguar.git
 ```
 
 ## Visualizing
